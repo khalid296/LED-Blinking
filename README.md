@@ -1,5 +1,7 @@
 # LED-Blinking
 
+[![Watch the video](https://img.youtube.com/vi/k1Ndr5t86SU/maxresdefault.jpg)](https://youtu.be/k1Ndr5t86SU)
+
 https://youtu.be/k1Ndr5t86SU
 
 In this project 5 bush buttons, 8 LEDs, 2 7-Segment are used to practice IO(input/output) basics on AVR atmega16
